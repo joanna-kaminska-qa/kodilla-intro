@@ -8,6 +8,8 @@
 Simple overview of the purpose of this repository:  
 This project contains exercises, homework tasks, and example implementations completed as part of a module in the Kodilla "Automated Tester" Java course, focusing on **Object-Oriented Programming (OOP)** in Java 21.
 
+The project was developed in **IntelliJ IDEA** as part of the learning path for future **QA/Test Automation Engineers**.
+
 ---
 
 ## Description
