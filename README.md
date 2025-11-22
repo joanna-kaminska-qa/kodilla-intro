@@ -5,7 +5,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-Simple overview of the purpose of this repository:  
 This project contains exercises, homework tasks, and example implementations completed as part of a module in the Kodilla "Automated Tester" Java course, focusing on **Object-Oriented Programming (OOP)** in Java 21.
 
 The project was developed in **IntelliJ IDEA** as part of the learning path for future **QA/Test Automation Engineers**.
